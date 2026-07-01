@@ -21,13 +21,13 @@ MyFitnes test
 Всё прошло хорошо, никаких ошибок при регистрации не возникло.
 
 **Ссылка на репозиторий:**  
-(https://github.com/мой-логин/myfitnes-test](https://github.com/мой-логин/myfitnes-test) – там лежит этот файл со всеми чек-листами и тестами.
+(https://github.com/VELMOR1/myfitness-test/blob/main/README.md) – там лежит этот файл со всеми чек-листами и тестами.
 
 ---
 
 ## 2. Работа с документацией
 
-Руководитель скинул ссылку на документацию: [https://docs.myfitt.ru/#/client/](https://docs.myfitt.ru/#/client/).
+Руководитель скинул ссылку на документацию: (https://github.com/VELMOR1/myfitness-test/blob/main/README.md).
 
 Я пробежался по основным разделам:
 - как подключать внешние устройства (часы, фитнес-браслеты);
